@@ -21,7 +21,6 @@ adiciona(): void{
     console.log(this.negociacoes.lista())
     this.limparFormulario();
 
-
 }
 
 criaNegociacao(): Negociacao{
